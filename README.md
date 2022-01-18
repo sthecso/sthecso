@@ -1,6 +1,6 @@
 ### Olá, eu sou a Sthefany Caroline! 
 - 🔭 Atualmente estudante de Desenvolvimento Web Full Stack
-- 🌱 Estudando SQL
+- 🌱 Estudando NodeJS
 - 😄 Pronouns: ela/dela
   
 <br>
