@@ -1,5 +1,5 @@
 ### Olá, eu sou a Sthefany Caroline! 
-- 🔭 Atualmente Desenvolvedora Ruby Backend 
+- 🔭 Atualmente Desenvolvedora Ruby Backend na <a href="https://grafeno.digital/">Grafeno</a>
 - 😄 Pronomes: ela/dela
   
 <br>
@@ -11,7 +11,10 @@
   
  <div>
    <div style="display: inline_block"><br>
+  <img align="center" alt="Sthe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  <img align="center" alt="Sthe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
   <img align="center" alt="Sthe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Sthe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Sthe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sthe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sthe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
