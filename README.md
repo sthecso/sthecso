@@ -1,6 +1,5 @@
 ### Olá, eu sou a Sthefany Caroline! 
 - 🔭 Atualmente Desenvolvedora Ruby Backend na <a href="https://grafeno.digital/">Grafeno</a>
-- 😄 Pronomes: ela/dela
   
 <br>
   <div align="flex">
