@@ -1,5 +1,5 @@
 ### Olá, eu sou a Sthefany Caroline! 
-- 🔭 Atualmente Desenvolvedora Ruby Backend na <a href="https://grafeno.digital/">Grafeno</a>
+- 🔭 Atualmente Desenvolvedora Bakend Ruby on Rails na <a href="https://grafeno.digital/">Grafeno</a>
   
 <br>
   <div align="flex">
